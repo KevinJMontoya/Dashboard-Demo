@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Union Dashboard — Demo Project
+Overview
+The Union Dashboard is a conceptual demo project created to showcase UI/UX design, front-end development, and data visualization skills in a labor-focused context.
+This project is not a production application. It was built strictly for demonstration and portfolio purposes to illustrate how a modern union or worker-focused organization might present membership data, announcements, and engagement metrics in a clean, accessible dashboard.
+Purpose
+This demo was created to:
+Demonstrate dashboard layout and information hierarchy
+Showcase UI/UX decisions for clarity, accessibility, and usability
+Present mock union-related data in a professional, readable format
+Simulate a real-world internal tool a union or organization could use
+All data shown in this project is placeholder / mock data.
+Features
+Dashboard-style layout with clear visual hierarchy
+Mock metrics (membership, engagement, announcements, dues, etc.)
+Responsive design for desktop and tablet screens
+Clean, union-appropriate visual tone (trust, structure, accessibility)
+Component-based structure for scalability
+Tech Stack
+HTML5
+CSS3
+JavaScript
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Demo Disclaimer
+⚠️ Important Note
+This project:
+Uses mock data only
+Does not represent any real union or organization
+Is not connected to a backend or live database
+Was built solely as a design and development demonstration
+Why This Project?
+Unions and worker organizations require digital tools that are:
+Clear and easy to use
+Trustworthy and accessible
+Capable of presenting important information quickly
+This demo explores how those needs can be met through thoughtful front-end design and dashboard architecture.
+Future Improvements (Conceptual)
+Authentication and role-based access
+Live data integration
+Advanced reporting and analytics
+Mobile optimization
+Member communication tools
+Author
+Kevin J. Montoya
+Portfolio: https://kevinjmontoya.com
